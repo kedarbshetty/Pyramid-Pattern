@@ -1,9 +1,5 @@
 #include<stdio.h>
 
-void vert_pyr(){
-
-}
-
 int main(){
 int t,p,q,s,r;
 scanf("%d",&t);
@@ -50,4 +46,5 @@ while(t--){
         printf("\n");
     }
 }
+
 }
