@@ -14,4 +14,25 @@ This program prints **vertical** and **horizontal** star pyramids using C.
   - `q` → rows for horizontal pyramid
 
 ## Example
+Input :
+1
+5 6
 
+Output :
+***Vertical pyramid***
+
+*  
+** 
+***
+**
+* 
+
+
+***Horizontal pyramid***
+
+     *
+    ***
+   *****
+  *******  
+ *********
+***********
